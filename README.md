@@ -29,6 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://imgur.com/a/obekrUP.gif](https://imgur.com/a/obekrUP)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![WorldGif](https://github.com/user-attachments/assets/da93e4d6-b978-4c07-82b2-6e2889f99acb)
+
 
 
