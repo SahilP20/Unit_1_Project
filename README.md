@@ -28,8 +28,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-![WorldGif](https://github.com/user-attachments/assets/da93e4d6-b978-4c07-82b2-6e2889f99acb)
+![2026-02-03 09-40-33 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/6a27f96b-d960-412d-b0d0-6349910f0125)
 
 
 
